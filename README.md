@@ -18,8 +18,9 @@ I am committed, responsible, and always maintain a “learner” attitude, pursu
 Dimensional modeling and sales analysis using dbt, Snowflake, and Power BI.  
 **Stack:** SQL, dbt, Snowflake, Power BI.  
 **Highlight:** Creation of interactive dashboards with strategic KPIs.
-
-🔗 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNDE4ZTNjOTgtNjFmMy00ZTBkLTgxYjItNmU5MGVlMTFjYjRhIiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9)
+**Results:**
+🔗 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDE4ZTNjOTgtNjFmMy00ZTBkLTgxYjItNmU5MGVlMTFjYjRhIiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9)
+🔗 [Project Video](https://www.youtube.com/watch?v=SYeKGkhWh3k)
 
 ## 📫 Contact
 
