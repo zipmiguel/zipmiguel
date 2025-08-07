@@ -50,13 +50,5 @@ Modelagem dimensional e análise de vendas utilizando dbt, Snowflake e Power BI.
 
 ---
 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Miguel-JAVA" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-          
-</div>  
-    
-  ##
  
 
