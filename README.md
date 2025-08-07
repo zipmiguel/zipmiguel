@@ -8,16 +8,33 @@ I have an **analytical mindset** and **logical reasoning**, which help me make w
 I am committed, responsible, and always maintain a “learner” attitude, pursuing **consistency and continuous improvement** — both in technical skills and personal development.
 
 ## 🛠️ Tools & Technologies
-**Languages & Query:** ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+<p>
+<strong>Languages & Query:</strong>
+<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="vertical-align: middle;" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="vertical-align: middle;" />
+</p>
 
-**Data Engineering & Analytics:** ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+<p>
+<strong>Data Engineering & Analytics:</strong>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" style="vertical-align: middle;" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" style="vertical-align: middle;" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" style="vertical-align: middle;" />
+</p>
 
-**Visualization & BI:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+<p>
+<strong>Visualization & BI:</strong>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="vertical-align: middle;" />
+</p>
 
-**Productivity & Collaboration:** ![G-Suite](https://img.shields.io/badge/G%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
+<p>
+<strong>Productivity & Collaboration:</strong>
+<img src="https://img.shields.io/badge/G%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white" style="vertical-align: middle;" />
+<img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" style="vertical-align: middle;" />
+<img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black" style="vertical-align: middle;" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" style="vertical-align: middle;" />
+</p>
 
-## 📂 Latest Project
-### 🔹 [Adventure Works Project](https://github.com/seuusuario/projeto-adventure-works)
+## 📂 Latest Project: ### 🔹 [Adventure Works Project](https://github.com/seuusuario/projeto-adventure-works)
 Dimensional modeling and sales analysis using dbt, Snowflake, and Power BI.  
 **Stack:** SQL, dbt, Snowflake, Power BI.  
 **Highlight:** Creation of interactive dashboards with strategic KPIs.
@@ -27,5 +44,3 @@ Dimensional modeling and sales analysis using dbt, Snowflake, and Power BI.
 <div> 
    <a href="https://www.linkedin.com/in/miguel-philippi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
-
-
